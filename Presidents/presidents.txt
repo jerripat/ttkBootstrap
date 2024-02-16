@@ -1,0 +1,46 @@
+George Washington, April 30, 1789, March 4, 1797, John Adams
+John Adams, March 4, 1797, March 4, 1801, Thomas Jefferson
+Thomas Jefferson, March 4, 1801, March 4, 1809, Aaron Burr
+James Madison, March 4, 1809, March 4, 1817, George Clinton
+James Monroe, March 4, 1817, March 4, 1825, Daniel D. Tompkins
+John Quincy Adams, March 4, 1825, March 4, 1829, John C. Calhoun
+Andrew Jackson, March 4, 1829, March 4, 1837, John C. Calhoun
+Martin Van Buren, March 4, 1837, March 4, 1841, Richard Mentor Johnson
+William Henry Harrison, March 4, 1841, April 4, 1841, John Tyler
+John Tyler, April 4, 1841, March 4, 1845, vacant
+James K. Polk, March 4, 1845, March 4, 1849, George M. Dallas
+Zachary Taylor, March 4, 1849, July 9, 1850, Millard Fillmore
+Millard Fillmore, July 9, 1850, March 4, 1853, vacant
+Franklin Pierce, March 4, 1853, March 4, 1857, William R. King
+James Buchanan, March 4, 1857, March 4, 1861, John C. Breckinridge
+Abraham Lincoln, March 4, 1861, April 15, 1865, Hannibal Hamlin
+Andrew Johnson, April 15, 1865, March 4, 1869, vacant
+Ulysses S. Grant, March 4, 1869, March 4, 1877, Schuyler Colfax
+Rutherford B. Hayes, March 4, 1877, March 4, 1881, William A. Wheeler
+James A. Garfield, March 4, 1881, September 19, 1881, Chester A. Arthur
+Chester A. Arthur, September 19, 1881, March 4, 1885, vacant
+Grover Cleveland, March 4, 1885, March 4, 1889, Thomas A. Hendricks
+Benjamin Harrison, March 4, 1889, March 4, 1893, Levi P. Morton
+Grover Cleveland, March 4, 1893, March 4, 1897, Adlai Stevenson
+William McKinley, March 4, 1897, September 14, 1901, Garret Hobart
+Theodore Roosevelt, September 14, 1901, March 4, 1909, vacant
+William Howard Taft, March 4, 1909, March 4, 1913, James S. Sherman
+Woodrow Wilson, March 4, 1913, March 4, 1921, Thomas R. Marshall
+Warren G. Harding, March 4, 1921, August 2, 1923, Calvin Coolidge
+Calvin Coolidge, August 2, 1923, March 4, 1929, vacant
+Herbert Hoover, March 4, 1929, March 4, 1933, Charles Curtis
+Franklin D. Roosevelt, March 4, 1933, April 12, 1945, John N. Garner
+Harry S. Truman, April 12, 1945, January 20, 1953, vacant
+Dwight D. Eisenhower, January 20, 1953, January 20, 1961, Richard Nixon
+John F. Kennedy, January 20, 1961, November 22, 1963, Lyndon B. Johnson
+Lyndon B. Johnson, November 22, 1963, January 20, 1969, vacant
+Richard Nixon, January 20, 1969, August 9, 1974, Spiro Agnew
+Gerald Ford, August 9, 1974, January 20, 1977, vacant
+Jimmy Carter, January 20, 1977, January 20, 1981, Walter Mondale
+Ronald Reagan, January 20, 1981, January 20, 1989, George H. W. Bush
+George H. W. Bush, January 20, 1989, January 20, 1993, Dan Quayle
+Bill Clinton, January 20, 1993, January 20, 2001, Al Gore
+George W. Bush, January 20, 2001, January 20, 2009, Dick Cheney
+Barack Obama, January 20, 2009, January 20, 2017, Joe Biden
+Donald Trump, January 20, 2017, January 20, 2021, Mike Pence
+Joe Biden, January 20, 2021, incumbent, 2025, Kamala Harris
